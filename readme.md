@@ -17,7 +17,7 @@ This script will allow you to select one of the following via Rofi:
 
 ### Usage
 
-* Download `rofi-screenshot` and add somewhere in $PATH (e.g. /usr/local/bin)
+* [Download `rofi-screenshot`](https://raw.githubusercontent.com/ceuk/rofi-screenshot/master/rofi-screenshot) and add somewhere in $PATH (e.g. /usr/local/bin)
 * Make it executable `chmod u+x /usr/local/bin/rofi-screenshot`
 * Show the menu with `rofi-screenshot`
 * Stop recording with `rofi-screenshot -s`
