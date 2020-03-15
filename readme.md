@@ -11,7 +11,7 @@ This script will allow you to select one of the following via Rofi:
 * Record a specific region and save as a gif
 * Record a specific region and save as a MP4
 * Record the whole screen and save as a gif
-* Record the whole screen and save as an MP$
+* Record the whole screen and save as an MP4
 
 ### Usage
 
