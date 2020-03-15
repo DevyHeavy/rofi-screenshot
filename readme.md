@@ -1,6 +1,6 @@
 ## rofi-screenshot
 
-![](https://i.imgur.com/pa1GVPH.gif)
+![](https://imgur.com/7io5BKJ.gif)
 
 I got sick of not having a simple solution to take screenshots and screencasts. Plus there's so many different things I might want to do I struggle to find key bindings for all of them.
 
